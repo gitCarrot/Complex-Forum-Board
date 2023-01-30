@@ -1,4 +1,4 @@
-# fastcampus-project-board
+# Code Discussion Board
 
 
 ccc
